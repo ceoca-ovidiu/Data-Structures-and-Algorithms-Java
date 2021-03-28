@@ -1,2 +1,2 @@
-# Data-Structure-and-Algorithms-Java
-Data Structure and Algorithms in Java
+# Data-Structures-and-Algorithms-Java
+Data Structures and Algorithms in Java
